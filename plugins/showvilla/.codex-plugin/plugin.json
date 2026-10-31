@@ -1,0 +1,6 @@
+{
+  "name": "showvilla",
+  "version": "1.0.0",
+  "description": "Research shows and turn supported facts into short comic-style stories.",
+  "skills": "./skills/"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "showvilla",
+  "version": "1.0.0",
+  "description": "Research shows and turn supported facts into short comic-style stories.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "ShowVilla",
+        "shortDescription": "Turn stories and show episodes into comics."
+      }
+    }
+  }
+}

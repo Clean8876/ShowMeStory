@@ -1,0 +1,11 @@
+{
+  "name": "showvilla-local",
+  "owner": { "name": "ShowVilla" },
+  "plugins": [
+    {
+      "name": "showvilla",
+      "source": "./plugins/showvilla",
+      "description": "Research shows and turn supported facts into short comic-style stories."
+    }
+  ]
+}
